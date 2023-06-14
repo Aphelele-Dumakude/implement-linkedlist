@@ -1,0 +1,7 @@
+
+”
+java:S1192O"rDefine a constant instead of duplicating this literal "Index: %d is out of bounds for list with size: %d" 3 times.(ÀˆòÓúÿÿÿÿ8™ç“Š1
+Ÿ
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷ª„8¡ç“Š1
+?
+java:S1116Ä"Remove this empty statement.(Åñ­õşÿÿÿÿ8¦ç“Š1
